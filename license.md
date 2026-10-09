@@ -151,4 +151,4 @@ The green button in the Quick Start section.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*elegant-oak-785 · Updated 2026-10-08 · Shared under the MIT License*
+*elegant-oak-785 · Updated 2026-10-09 · Shared under the MIT License*
